@@ -13,7 +13,7 @@ A  custom theme enough for Alfred
 
 ### Install manually
 ```
-git clone "https://gitee.com/Ryan_ma/mtheme-alfred.git"
+git clone "https://github.com/Ryan-m1/MTheme-Alfred.git"
 ```
 
 
